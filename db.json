@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "hello",
+      "price": "jndkas",
+      "photo": "jkdnsajk",
+      "description": "jnd",
+      "id": 4
+    },
+    {
+      "title": "adnas",
+      "price": "abas",
+      "photo": "jbsd",
+      "description": "jbkjsd",
+      "id": 5
+    },
+    {
+      "title": "adsjbdk",
+      "price": "bjsabdjh",
+      "photo": "jhbjsadbjh",
+      "description": "bjhsab",
+      "id": 6
+    },
+    {
+      "title": "as",
+      "price": "asdaasda",
+      "photo": "adad",
+      "description": "asd",
+      "id": 7
+    },
+    {
+      "title": "daj",
+      "price": "jkjkdba",
+      "photo": "jkbjdk",
+      "description": "jkb",
+      "id": 8
+    }
+  ]
+}
